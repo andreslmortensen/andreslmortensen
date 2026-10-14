@@ -83,6 +83,7 @@ A collection of frontend projects demonstrating core web technologies and REST A
 * Responsive design principles and semantic HTML.
 
 🔗 Repository: [https://github.com/andreslmortensen/Trabajos-Practicos---Desarrollo-de-Software]
+
 ---
 
 ## 🎯 What I'm Looking For
